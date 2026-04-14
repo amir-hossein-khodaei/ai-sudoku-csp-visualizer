@@ -1,0 +1,1 @@
+@Syed-srh Thank you for offering to contribute the Min-Conflicts algorithm implementation! We really appreciate your willingness to help. I apologize for the delayed response due to the ongoing war situation in Iran. Please feel free to proceed with the implementation or submit a pull request when you are ready!
